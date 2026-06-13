@@ -83,3 +83,7 @@ Copyright owners may request content review or removal through GitHub Issues or 
 ## License
 
 MIT License
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=istiakrahman15.iptv-api)](https://github.com/istiakrahman15/iptv-api)
+![Stars](https://img.shields.io/github/stars/istiakrahman15/iptv-api)
+![Forks](https://img.shields.io/github/forks/istiakrahman15/iptv-api)
