@@ -1,0 +1,434 @@
+[
+  {
+    "name": "AL SUNNAH AL NABAWIYAH TV",
+    "logo": "https://i.postimg.cc/pdPNPz8J/images.png",
+    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "category": "Islamic"
+  },
+  {
+    "name": "Makka live",
+    "logo": "https://i.imgur.com/afhANph.jpg",
+    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "category": "Islamic"
+  },
+  {
+    "name": "Peace Tv Bangla",
+    "logo": "",
+    "stream_url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "T-Sports",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "FIFA WORLD CUP LIVE-1",
+    "logo": "",
+    "stream_url": "http://84.17.50.102/fox/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "BTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "G-TV",
+    "logo": "",
+    "stream_url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Jamuna",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Jamuna",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Somoy",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "71 TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "INDEPENDENT",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "INDEPENDENT",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "NEWS 24",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "ATN NEWS",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "ATN BANGLA",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "BanglaVision",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "N TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Durronto TV",
+    "logo": "",
+    "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Channel I",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Channel 9",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "SA TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Dippto TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "NEWS 24",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Channel 24",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Star News",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Nagorik",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "MASSRANGA",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "ALJAZEERA",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Kids Star",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Lucky Family",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Smarty",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/smarty/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Fighter",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Thunder Er",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "sportrange",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Intelligence",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Truestory",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Crime",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Funny Junior",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "BuddyStar",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/buddystar/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Joy",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Nikky",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Luxell",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/luxell/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Delicious",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/delicious/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Party Univers",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Flash Guys",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/flashguys/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Sports Legends",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Screem",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/screem/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Crazy_ex",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Superrix",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/superrix/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Islamic TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Uniques",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Cineedge",
+    "logo": "",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/cineedge/chunks.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "SRK TV",
+    "logo": "",
+    "stream_url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Sangsad",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "T-Sports",
+    "logo": "",
+    "stream_url": "https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1776683589&token=38e2154342a8b1c5018d53638e8ad87e&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+    "category": "Live Tv"
+  },
+  {
+    "name": "A Sports",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "PTV",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/PTV-kutta/video.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Star Jalsha",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Zee Bangla Sonar",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Colors Bangla Cinema",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Sony AAth",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Sony MAX",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Sony TV",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Star Plus",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Star Gold",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Star Movies",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Zee TV",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "CN HD",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Disney Kids",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "Discovery",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  },
+  {
+    "name": "National Geography",
+    "logo": "",
+    "stream_url": "http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8",
+    "category": "Live Tv"
+  }
+]
