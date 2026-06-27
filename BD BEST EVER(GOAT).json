@@ -1,0 +1,1958 @@
+[
+  {
+    "name": "Real Madrid",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Flash Guys",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sports Legends",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sport Range",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Thunder",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CHANNEL 24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DBC NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "EKATTOR NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "INDEPENDENT TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Jago News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "JAMUNA NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS 24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "News 21 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SOMOY NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "STAR NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CHANNEL I HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "BANGLA VISION",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "BTV NATIONAL",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel 16",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DEEPTO TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Deshi Tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Green Tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ETV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "MAASRANGA TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Me TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://iptvbd.live/metv1080/1080.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Movie Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NTV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SA TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ISLAMIC TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Saudi Quran",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sunnah tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sunnah tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sunnah tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "AL JAZEERA",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Arirang",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Arirang",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Arirang",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Arirang",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CNA",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CNA",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cnn News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cgtn Documentary",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CGTN",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DW NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ND tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "News Max",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Rt News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Rt News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sky  News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cnn news 18",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "WION",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Yahoo News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2dsoyvkr33m05.cloudfront.net/index_2.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Colors Bangla Hd",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Enter Ten Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "BuddyStar HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Funny Junior HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Joy",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Jungle book",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Kids Stars",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Lucky Family",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Nikky",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Rongeentv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Smarty",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zoo Moo",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Delicious",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Luxel HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Red bull",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Wild earth",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Fashion tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Shemaroo Bollywood",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Young Bollywood",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cineedge",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Crimes",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Intelligence",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Originals",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Screem",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Superrix",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "True Stories",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Uniques",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Party Universe",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Crazy Ex",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Fighter",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "9XM",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "9X Jalwa",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/161/161_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Balleballe",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "E24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Hindi Hits",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Show Box",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/469/469_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Vision Beats",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zoom",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Aaj",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ary Digital",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ary News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Express Hd",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Express247",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.147.87.50:8001/play/a038/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Geo Entertainment",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "HUM TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "M news Hd",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn.abra.stream/M-World/index.fmp4.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TVRI sport",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.148.44.38:8000/play/a05u/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Btv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Unite 8 Sports 1 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/741567.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Unite 8 Sports 2 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "beIN SPORTS 1 UHD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/707929",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "FOX",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://84.17.50.102/fox/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "S Football",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "T Sports HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://trs1.aynaott.com/tsports/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Telemundo",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ESPN S2",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://186.33.40.97:8789/play/20",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Atn Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ekushey TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ntv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Jamuna Tv",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Enter10 Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "News18 Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery Hindi",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Love Nature",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Animal Planet HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN Music",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN BANGLA UK",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN Bangla UK",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ABP Ananda",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bangla Jago",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DD Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "R Plus News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "MU | 8XM",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ZB Cartoon",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "PBS Kids",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Wild Life",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://wildearth-plex.amagi.tv/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ACCU WEATHER",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DW NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NDTV NEWS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "RTNEWS GLOBAL",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Breaking News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NDTV English",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NDTV Hindi",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "News Max 2",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://198.195.239.50:8095/tsports/tracks-v1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://198.195.239.50:8095/unt-s/video.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/744524.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/744527.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup 2026 4K",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Maasranga TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NTV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NTV UK",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SATV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Deepto TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel 9",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Green TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Somoy TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Independent TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ekattor TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Star News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel 24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DBC News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Islamic TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Makkah TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "AL Sunnah TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "God TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://hlsb-us.god.tv/GODTV/USA-480.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Arihant TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "G-Serise",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Amar Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Dhoom Music",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "R Plus News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Kolkata TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TV9 Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Anmol TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/256/256_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Big Magic",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Hinde Movies 3",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "The Movie Club",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Action",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/271/271_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sheemaroo Bollywood",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Goldmines Bollywood",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Manoranjan Movies",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/23/23_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Manoranjan Prime",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/345/345_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Manoranjan Grend",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DD Sports 2.0",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://202.70.146.135:8000/play/a05z/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Nat Geo HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Food Food",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://103.175.73.12:8080/live/143/143_0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CGTN Docment",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discover Pakistan TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Action Hollywood Movies",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "YRF Music HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Somoy TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Football World Cup",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Drama 24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://vods2.aynascope.net/gseriesDrama/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel 9 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SRK TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bhi Channel",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://15.235.185.236/hls/bhi.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel S UK",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel Europe",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CBN TV USA",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Deepto TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ekhon TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/ekhon_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "JonmoBhumi TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Mohona TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NRB TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Probashi TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bangla Plus",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Deepto TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Bangla HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Colors Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Euro Sports",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "FIFA World Cup",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cricket Gold",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "beIN sports Xtra HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "beIN sports Xtra",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "GOAL TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Enter10 Bangla HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "STAR JALSHA HD (Ads Only)",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "IN | Calcutta News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "IN | Republic Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "IN | TV9 Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ENT | Dangal TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ENT | DANGAL2",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ENT | DD Bharati",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ENT | DD National HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ENT | DD URDU",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | Aaj Tak HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | Aap Ki Adalat",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | India Today",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | India TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | NDTV Hindi",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | News Nation",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | News24",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | Republic TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NEWS | ZEE BUSINESS",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Radio Bangla Net",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "BBC Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Spice FM",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://stream.spicefmbd.com/stream.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Toffee 1",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/tof/live/gervsivo/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Toffee 2",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/tof/live/ecuvscur/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Toffee 3",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/tof/live/tunvsjap/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Toffee 4",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/tof/live/toffee4/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Toffee 5",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/tof/live/toffee5/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bioscope",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/ott/bioscope/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bioscope",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/ott/bioscope1/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "i screen",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://sm-monirul.top/ott/iscreen/index.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Tipik Direct",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Caze TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Caze TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Caze TV FHD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "DSPORTS+ FHD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SPORT 1 🇸🇰",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SPORT 2 🇸🇰",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SportTV 2",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SportTV 3",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "England vs New Zealand | New Zealand Tour of England 2026",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sports_highlights.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/toffee_movie.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TOFFEE Dramas VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/toffee_drama.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "CNN VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/cnn.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Somoy TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/somoy_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Jamuna TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/jamuna_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN News",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/atn_news.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ATN Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/atn_bangla.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ananda TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/anandatv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bijoy TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/bijoytv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "NTV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/n_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Global TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/global_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel S",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/channel_s.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Rajdhani TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Bangla TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/bangla_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Asian TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/asian_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Channel i",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/channel_i.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Movie Bangla",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/movie_bangla.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Nexus TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/nexus_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Islamic TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/islamic_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Desh TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/desh_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Independent TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/independent_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Ekattor TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/ekattor_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Euro Sport HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/euro_sports_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "ICC Test Championship Highlights",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/icc_wtc_final.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY SPORTS TEN 1 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY SPORTS TEN 2 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY SPORTS TEN 5 HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_sports_5_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY TEN Cricket",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/ten_cricket.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cartoon Network HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/cartoon_network_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Cartoon Network",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/cartoon_network_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Pogo",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/pogo_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery Kids",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovery_kids.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY YAY VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonyyay.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Bangla VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_bangla.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Anmol",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_anmol.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zing",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zing_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Hum TV",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/hum_tv.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Hum Masala",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/hum_masala.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Hum Sitarey",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/hum_sitaray.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Sony Aat VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonyaath.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION HD VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_entertainment.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "B4U Music VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/b4u_music.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY SAB HD VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonysab_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_tv_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY MAX HD VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_max_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Bollywood",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_bollywood.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Action",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_action.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY MAX VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sony_max.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY PIX HD VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonypix_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Cafe",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_cafe_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "B4U Movies VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/b4u_movies.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY MAX 2 VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonymax_2.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Zee Cinema HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TLC HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/tlc_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "TLC",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/tlc_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Animal Planet",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/animal_planet_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Animal Planet HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/animal_planet_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "SONY BBC EARTH HD VIP",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/sonybbc_earth_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovery_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovery_sd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery Science",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovery_science.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Discovery Turbo",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovery_turbo.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "Investigation Discovery HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/discovary_investigation_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "&TV HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/and_tv_hd.m3u8",
+    "category": "Uncategorized"
+  },
+  {
+    "name": "& Pictures HD",
+    "logo": "https://imgur.com/79g2kMA.png",
+    "stream_url": "https://sm-monirul.top/toffee/play/andpicture_hd.m3u8",
+    "category": "Uncategorized"
+  }
+]
