@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Crazy 4K",
+    "logo": "",
+    "stream_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366103-0-0-22529c3f65969c7cdd810209a64927e6",
+    "category": "Sumon"
+  },
+  {
+    "name": "BTV",
+    "logo": "",
+    "stream_url": "http://103.151.60.162:2121/play/a013/index.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "T Sports",
+    "logo": "",
+    "stream_url": "https://proxy.futuredesh.com/api/proxy?url=http%3A%2F%2F103.165.93.31%3A8095%2Ftsports%2Ftracks-v1a1a2%2Fmono.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "SomoyTV Sports",
+    "logo": "",
+    "stream_url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "Unite8-1",
+    "logo": "",
+    "stream_url": "http://103.151.60.162:2121/play/a0f8/index.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "Unite8-2",
+    "logo": "",
+    "stream_url": "http://180.94.28.28:8097/Fifa-2026/index.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "4K Sports",
+    "logo": "",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
+    "category": "Sumon"
+  },
+  {
+    "name": "G-Series",
+    "logo": "",
+    "stream_url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "SRK TV",
+    "logo": "https://sunplex.net/iptv/logo/depto-tv.jpg",
+    "stream_url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "দ্বীপ্ত টি়ভি",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Star News",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "সময় টিভি",
+    "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "একাত্তর টিভি",
+    "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "চ্যানেল 24",
+    "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "ইনডিপেন্ডডেন্ট টিভি",
+    "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "যমুনা টিভি",
+    "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "এটিএন নিউজ",
+    "logo": "https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "SA TV",
+    "logo": "",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "চ্যানেল আই",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "এনটিভি",
+    "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "বাংলা ভিশন",
+    "logo": "https://www.bvnews24.com/media/common/newbvlogo.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "name": "এটিএন বাংলা",
+    "logo": "https://s6.gifyu.com/images/image27cfa7002786c232.png",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Desh TV",
+    "logo": "",
+    "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "একুশে টিভি",
+    "logo": "https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",
+    "stream_url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "দূরন্ত টিভি",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+    "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "মুভি বাংলা",
+    "logo": "https://i.ibb.co/0rPdpW9/MB-TV.jpg",
+    "stream_url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Me-টিভি",
+    "logo": "https://buddytv.netlify.app/img/no-logo.png",
+    "stream_url": "https://iptvbd.live/metv1080/1080.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "দেশি টিভি",
+    "logo": "https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",
+    "stream_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Mohona TV",
+    "logo": "",
+    "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "মাই টিভি",
+    "logo": "https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",
+    "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Rajdhani TV",
+    "logo": "",
+    "stream_url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
+    "category": "Sumon"
+  },
+  {
+    "name": "বিটিভি",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
+    "category": "BANGLA"
+  },
+  {
+    "name": "Enter10 Bangla HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",
+    "stream_url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "name": "Bhojpuri Cinema",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png",
+    "stream_url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+    "category": "SPORTS"
+  },
+  {
+    "name": "EN | Toonami Aftermath Movie",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/62/TOONAMI-2025.svg",
+    "stream_url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "EN | Action Hollywood Movies",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",
+    "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "EN | Bang Bang TV",
+    "logo": "https://alchetron.com/cdn/bang-bang-tv-channel-86505200-5377-43bb-ac56-4a72cc2c786-resize-750.jpg",
+    "stream_url": "https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "EN | Grand Cinema",
+    "logo": "https://grandcinema.tv/logo.png",
+    "stream_url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "EN | Circle",
+    "logo": "https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",
+    "stream_url": "https://circle-roku.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "name": "BTV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Cartoon-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Star News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Somoy News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Channel 24 News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "71 News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "DBC News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "ATN News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-10/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "News 24",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Independent News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-9/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Jamuna News",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "APB",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-11/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "SRK-TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-8/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Deepto TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "MachRanga TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Channel I",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Bangla Vision",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-9/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "NTV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "SA TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-10/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Ekushe TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Channel 9",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Bangladesh-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Cartoon TV",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Cartoon-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "AL-Jazeera",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/News-8/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "ZEE Cinema HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "AND Picture HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Star GOLD HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "SONY Max HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "CinePlex HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Star Movies HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "SONY Pix HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "MNX HD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-9/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "AXN",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-10/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Peace TV Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Islamic-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Islamic TV Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Islamic-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Star Jolsha",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Entertainment-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "ZEE Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Entertainment-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sony ATT",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Entertainment-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Colours Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Entertainment-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Jolsha Movies",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-8/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Colours Cinema",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Movies-11/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Hindi Hits",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Music-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "YRF Music",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Music-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "9xM Music",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Music-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Songeet Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Music-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Nat Geo Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Discovery Bangla",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Travle XP",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "BBC Earth",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Nat Geo WILD",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Animale Planet",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Love Nature",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Documentary-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 1",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:6789/stream/fifawc26/fox60l/stream_0.m3u8?u=mrzwc&p=14c016688dc2ac9b0ba0a60403d44946e9b9ba128652b86cff00272fdb1f95c4&uid=2269506533",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 2",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:6789/stream/fifawc26/tsn1/stream_0.m3u8?u=mrzwc&p=14c016688dc2ac9b0ba0a60403d44946e9b9ba128652b86cff00272fdb1f95c4&uid=2904572041",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 3",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 4",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 5",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Sports 6",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Football (Premier League)",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  },
+  {
+    "name": "Football (LaLiga TV)",
+    "logo": "",
+    "stream_url": "http://10.20.30.30:7171/Sports-8/tracks-v1a1/mono.m3u8?token=wcspecial2026hub",
+    "category": "BIJOY"
+  }
+]
