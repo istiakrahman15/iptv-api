@@ -6,21 +6,21 @@
 <br/>
 
 <!-- BADGE ROW 1 — Core Stats -->
-[![GitHub Stars](https://img.shields.io/github/stars/istiakrahman15/IPTV?style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=1e1b4b&label=Stars)](https://github.com/istiakrahman15/IPTV/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/istiakrahman15/IPTV?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b&label=Forks)](https://github.com/istiakrahman15/IPTV/forks)
-[![GitHub Watchers](https://img.shields.io/github/watchers/istiakrahman15/IPTV?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=1e1b4b&label=Watchers)](https://github.com/istiakrahman15/IPTV)
-[![GitHub Issues](https://img.shields.io/github/issues/istiakrahman15/IPTV?style=for-the-badge&logo=bugsnag&logoColor=white&color=a78bfa&labelColor=1e1b4b&label=Issues)](https://github.com/istiakrahman15/IPTV/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/istiakrahman15/iptv-api?style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=1e1b4b&label=Stars)](https://github.com/istiakrahman15/iptv-api/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/istiakrahman15/iptv-api?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b&label=Forks)](https://github.com/istiakrahman15/iptv-api/forks)
+[![GitHub Watchers](https://img.shields.io/github/watchers/istiakrahman15/iptv-api?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=1e1b4b&label=Watchers)](https://github.com/istiakrahman15/iptv-api)
+[![GitHub Issues](https://img.shields.io/github/issues/istiakrahman15/iptv-api?style=for-the-badge&logo=bugsnag&logoColor=white&color=a78bfa&labelColor=1e1b4b&label=Issues)](https://github.com/istiakrahman15/iptv-api/issues)
 
 <!-- BADGE ROW 2 — Activity & Meta -->
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/istiakrahman15/IPTV?style=for-the-badge&logo=git&logoColor=white&color=5b21b6&labelColor=1e1b4b&label=Last+Commit)](https://github.com/istiakrahman15/IPTV/commits)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/istiakrahman15/IPTV?style=for-the-badge&logo=databricks&logoColor=white&color=6d28d9&labelColor=1e1b4b&label=Repo+Size)](https://github.com/istiakrahman15/IPTV)
-[![GitHub License](https://img.shields.io/github/license/istiakrahman15/IPTV?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=7c3aed&labelColor=1e1b4b&label=License)](LICENSE)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/istiakrahman15/IPTV?style=for-the-badge&logo=json&logoColor=white&color=8b5cf6&labelColor=1e1b4b)](https://github.com/istiakrahman15/IPTV)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/istiakrahman15/iptv-api?style=for-the-badge&logo=git&logoColor=white&color=5b21b6&labelColor=1e1b4b&label=Last+Commit)](https://github.com/istiakrahman15/iptv-api/commits)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/istiakrahman15/iptv-api?style=for-the-badge&logo=databricks&logoColor=white&color=6d28d9&labelColor=1e1b4b&label=Repo+Size)](https://github.com/istiakrahman15/iptv-api)
+[![GitHub License](https://img.shields.io/github/license/istiakrahman15/iptv-api?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=7c3aed&labelColor=1e1b4b&label=License)](LICENSE)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/istiakrahman15/iptv-api?style=for-the-badge&logo=json&logoColor=white&color=8b5cf6&labelColor=1e1b4b)](https://github.com/istiakrahman15/iptv-api)
 
 <!-- BADGE ROW 3 — Commit Activity, Release, Visitors -->
-[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/istiakrahman15/IPTV?style=for-the-badge&logo=githubactions&logoColor=white&color=a78bfa&labelColor=1e1b4b&label=Commits%2FMonth)](https://github.com/istiakrahman15/IPTV/commits)
-[![GitHub Release](https://img.shields.io/github/v/release/istiakrahman15/IPTV?style=for-the-badge&logo=rocket&logoColor=white&color=5b21b6&labelColor=1e1b4b&label=Release&include_prereleases)](https://github.com/istiakrahman15/IPTV/releases)
-[![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-IPTV&label=VISITORS&color=6d28d9&style=for-the-badge)](https://github.com/istiakrahman15/IPTV)
+[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/istiakrahman15/iptv-api?style=for-the-badge&logo=githubactions&logoColor=white&color=a78bfa&labelColor=1e1b4b&label=Commits%2FMonth)](https://github.com/istiakrahman15/iptv-api/commits)
+[![GitHub Release](https://img.shields.io/github/v/release/istiakrahman15/iptv-api?style=for-the-badge&logo=rocket&logoColor=white&color=5b21b6&labelColor=1e1b4b&label=Release&include_prereleases)](https://github.com/istiakrahman15/iptv-api/releases)
+[![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-iptv-api&label=VISITORS&color=6d28d9&style=for-the-badge)](https://github.com/istiakrahman15/iptv-api)
 
 <br/>
 
@@ -56,7 +56,7 @@
 >
 > **A GitHub Star costs nothing but means everything. ❤️**
 >
-> **[⭐ Click here to Star this repository](https://github.com/istiakrahman15/IPTV/stargazers)**
+> **[⭐ Click here to Star this repository](https://github.com/istiakrahman15/iptv-api/stargazers)**
 
 ---
 
@@ -128,7 +128,7 @@ Channels are organized into the following categories:
 ### Direct URL
 
 ```
-https://raw.githubusercontent.com/istiakrahman15/IPTV/main/iptv.json
+https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json
 ```
 
 Fetch it, parse it, use it. No API key. No auth. No rate limits.
@@ -138,7 +138,7 @@ Fetch it, parse it, use it. No API key. No auth. No rate limits.
 ### 🌐 JavaScript Fetch Example
 
 ```javascript
-const IPTV_URL = 'https://raw.githubusercontent.com/istiakrahman15/IPTV/main/iptv.json';
+const IPTV_URL = 'https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json';
 
 async function loadChannels() {
   try {
@@ -203,7 +203,7 @@ Play any stream directly in the browser using [HLS.js](https://github.com/video-
 ## 📁 Project Structure
 
 ```
-IPTV/
+iptv-api/
 ├── 📄 iptv.json       ← Main channel database
 ├── 📝 README.md       ← You are here
 └── ⚖️  LICENSE        ← MIT License
@@ -234,14 +234,14 @@ Follow these recommendations when integrating the JSON into your project:
 
 | Metric | Status |
 |---|---|
-| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/istiakrahman15/IPTV?style=flat-square&color=6d28d9&labelColor=1e1b4b) |
-| 🍴 Forks | ![Forks](https://img.shields.io/github/forks/istiakrahman15/IPTV?style=flat-square&color=7c3aed&labelColor=1e1b4b) |
-| 👀 Visitors | ![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-IPTV&color=6d28d9&style=flat-square) |
-| 👁 Watchers | ![Watchers](https://img.shields.io/github/watchers/istiakrahman15/IPTV?style=flat-square&color=8b5cf6&labelColor=1e1b4b) |
-| 📦 Repository Size | ![Size](https://img.shields.io/github/repo-size/istiakrahman15/IPTV?style=flat-square&color=a78bfa&labelColor=1e1b4b) |
+| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/istiakrahman15/iptv-api?style=flat-square&color=6d28d9&labelColor=1e1b4b) |
+| 🍴 Forks | ![Forks](https://img.shields.io/github/forks/istiakrahman15/iptv-api?style=flat-square&color=7c3aed&labelColor=1e1b4b) |
+| 👀 Visitors | ![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-iptv-api&color=6d28d9&style=flat-square) |
+| 👁 Watchers | ![Watchers](https://img.shields.io/github/watchers/istiakrahman15/iptv-api?style=flat-square&color=8b5cf6&labelColor=1e1b4b) |
+| 📦 Repository Size | ![Size](https://img.shields.io/github/repo-size/istiakrahman15/iptv-api?style=flat-square&color=a78bfa&labelColor=1e1b4b) |
 | 📂 Categories | **8+** |
 | 📺 Channels | **5,000+** |
-| 🔄 Last Updated | ![Last Commit](https://img.shields.io/github/last-commit/istiakrahman15/IPTV?style=flat-square&color=5b21b6&labelColor=1e1b4b) |
+| 🔄 Last Updated | ![Last Commit](https://img.shields.io/github/last-commit/istiakrahman15/iptv-api?style=flat-square&color=5b21b6&labelColor=1e1b4b) |
 | 📝 License | **MIT** |
 
 </div>
@@ -293,14 +293,14 @@ Yes. See the Contributing section below. Contributions are welcome and reviewed 
 <details>
 <summary><strong>Some streams are not working — what should I do?</strong></summary>
 <br/>
-Stream availability depends on the source server uptime. If a stream is consistently broken, please <a href="https://github.com/istiakrahman15/IPTV/issues">open an issue</a> with the channel name so it can be reviewed or removed.
+Stream availability depends on the source server uptime. If a stream is consistently broken, please <a href="https://github.com/istiakrahman15/iptv-api/issues">open an issue</a> with the channel name so it can be reviewed or removed.
 </details>
 
 <details>
 <summary><strong>Is there an API endpoint for this data?</strong></summary>
 <br/>
 Yes — the raw GitHub URL acts as a free, public endpoint:<br/>
-<code>https://raw.githubusercontent.com/istiakrahman15/IPTV/main/iptv.json</code>
+<code>https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json</code>
 </details>
 
 ---
@@ -349,7 +349,7 @@ If this project adds value to your work, here are the best ways to show it:
 | 🚀 **Share it** | Help other developers discover the project |
 | 🤝 **Contribute** | Add channels, fix logos, improve docs |
 
-**[⭐ Star on GitHub](https://github.com/istiakrahman15/IPTV)** · **[🍴 Fork](https://github.com/istiakrahman15/IPTV/fork)** · **[🐞 Report Issue](https://github.com/istiakrahman15/IPTV/issues)**
+**[⭐ Star on GitHub](https://github.com/istiakrahman15/iptv-api)** · **[🍴 Fork](https://github.com/istiakrahman15/iptv-api/fork)** · **[🐞 Report Issue](https://github.com/istiakrahman15/iptv-api/issues)**
 
 ---
 
@@ -372,7 +372,7 @@ This repository contains only **links** to third-party content — no media file
 
 If you are a rights holder and believe a URL in this database links to infringing content:
 
-1. Open an [issue](https://github.com/istiakrahman15/IPTV/issues) with the subject **"DMCA Takedown Request"**
+1. Open an [issue](https://github.com/istiakrahman15/iptv-api/issues) with the subject **"DMCA Takedown Request"**
 2. Include the specific channel name and URL you wish to have removed
 3. Provide proof of ownership or authorization to act on behalf of the rights holder
 
@@ -423,15 +423,15 @@ If this repository helped you even once...
 >
 > Every Star motivates future updates — new channels, logo improvements, broken stream fixes, and continued maintenance.
 
-**[⭐ Click here to Star this repository](https://github.com/istiakrahman15/IPTV/stargazers)**
+**[⭐ Click here to Star this repository](https://github.com/istiakrahman15/iptv-api/stargazers)**
 
 ---
 
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-IPTV&label=Total%20Visitors&color=6d28d9&style=for-the-badge)](https://github.com/istiakrahman15/IPTV)
-[![Stars](https://img.shields.io/github/stars/istiakrahman15/IPTV?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e1b4b)](https://github.com/istiakrahman15/IPTV/stargazers)
-[![Forks](https://img.shields.io/github/forks/istiakrahman15/IPTV?style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1b4b)](https://github.com/istiakrahman15/IPTV/forks)
+[![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-iptv-api&label=Total%20Visitors&color=6d28d9&style=for-the-badge)](https://github.com/istiakrahman15/iptv-api)
+[![Stars](https://img.shields.io/github/stars/istiakrahman15/iptv-api?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e1b4b)](https://github.com/istiakrahman15/iptv-api/stargazers)
+[![Forks](https://img.shields.io/github/forks/istiakrahman15/iptv-api?style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1b4b)](https://github.com/istiakrahman15/iptv-api/forks)
 
 <br/>
 
@@ -439,6 +439,6 @@ If this repository helped you even once...
 
 **Made with ❤️ by [Istiak Rahman](https://github.com/istiakrahman15)**
 
-[🌐 Portfolio](https://devistiak.eu.cc) · [☕ Support](https://supportkori.com/istiakrahman15) · [⭐ Star](https://github.com/istiakrahman15/IPTV)
+[🌐 Portfolio](https://devistiak.eu.cc) · [☕ Support](https://supportkori.com/istiakrahman15) · [⭐ Star](https://github.com/istiakrahman15/iptv-api)
 
 </div>
