@@ -111,15 +111,15 @@ Every channel entry follows this consistent schema:
 
 ## 📂 Supported Categories
 
-Channels are organized into the following categories:
-
-| 🏆 Sports | 📰 News | 🎬 Movies | 🎵 Music |
-|---|---|---|---|
-| 🧒 Kids | 🎮 Entertainment | 📚 Education | 🍳 Lifestyle |
-| 🌍 International | 📺 General | 🏛 Government | ⛪ Religious |
-| 🔬 Documentary | 🌤 Weather | 🛍 Shopping | 🎭 Culture |
-
-> **More categories are added regularly.** Open an issue to request a new one.
+| Category | Channels |
+|---|---|
+| News | 11 |
+| Movies | 5 |
+| Kids | 3 |
+| Entertainment | 8 |
+| Uncategorized | 237 |
+| Sports | 6 |
+| Bangla | 33 |
 
 ---
 
