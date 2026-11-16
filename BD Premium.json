@@ -363,13 +363,13 @@
     "name": "ZB Cartun TV",
     "logo": "https://iili.io/F8gQjJS.png",
     "stream_url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "category": "BANGLADESHI"
+    "category": "Bangla"
   },
   {
     "name": "Deepto TV",
     "logo": "https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",
     "stream_url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-    "category": "BANGLA"
+    "category": "Bangla"
   },
   {
     "name": "Desh Bangla TV",
@@ -411,25 +411,25 @@
     "name": "Star Jalsha HD",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png",
     "stream_url": "http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts",
-    "category": "Indian-Bangla"
+    "category": "Bangla"
   },
   {
     "name": "Jalsha Movies HD",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",
     "stream_url": "http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8",
-    "category": "Indian-Bangla"
+    "category": "Bangla"
   },
   {
     "name": "Zee Bangla HD",
     "logo": "https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",
     "stream_url": "http://103.159.180.34:5001/live/625.m3u8",
-    "category": "Indian-Bangla"
+    "category": "Bangla"
   },
   {
     "name": "Colors Bangla",
     "logo": "https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",
     "stream_url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8",
-    "category": "Indian-Bangla"
+    "category": "Bangla"
   },
   {
     "name": "Saudi Quran",
