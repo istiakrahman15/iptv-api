@@ -239,8 +239,8 @@ Follow these recommendations when integrating the JSON into your project:
 | 👀 Visitors | ![Visitors](https://komarev.com/ghpvc/?username=istiakrahman15-iptv-api&color=6d28d9&style=flat-square) |
 | 👁 Watchers | ![Watchers](https://img.shields.io/github/watchers/istiakrahman15/iptv-api?style=flat-square&color=8b5cf6&labelColor=1e1b4b) |
 | 📦 Repository Size | ![Size](https://img.shields.io/github/repo-size/istiakrahman15/iptv-api?style=flat-square&color=a78bfa&labelColor=1e1b4b) |
-| 📂 Categories | **8+** |
-| 📺 Channels | **5,000+** |
+| 📂 Categories | **19** |
+| 📺 Channels | **408** |
 | 🔄 Last Updated | ![Last Commit](https://img.shields.io/github/last-commit/istiakrahman15/iptv-api?style=flat-square&color=5b21b6&labelColor=1e1b4b) |
 | 📝 License | **MIT** |
 
