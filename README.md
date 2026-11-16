@@ -128,7 +128,7 @@ Channels are organized into the following categories:
 ### Direct URL
 
 ```
-https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json
+https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/BD%20Premium.json
 ```
 
 Fetch it, parse it, use it. No API key. No auth. No rate limits.
@@ -138,7 +138,7 @@ Fetch it, parse it, use it. No API key. No auth. No rate limits.
 ### 🌐 JavaScript Fetch Example
 
 ```javascript
-const IPTV_URL = 'https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json';
+const IPTV_URL = 'https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/BD%20Premium.json';
 
 async function loadChannels() {
   try {
@@ -180,7 +180,7 @@ Play any stream directly in the browser using [HLS.js](https://github.com/video-
   <video id="player" controls width="800" autoplay></video>
 
   <script>
-    const streamUrl = 'https://example.com/playlist.m3u8'; // from iptv.json
+    const streamUrl = 'https://example.com/playlist.m3u8'; // from BD Premium.json
 
     const video = document.getElementById('player');
 
@@ -204,7 +204,7 @@ Play any stream directly in the browser using [HLS.js](https://github.com/video-
 
 ```
 iptv-api/
-├── 📄 iptv.json       ← Main channel database
+├── 📄 BD Premium.json       ← Main channel database
 ├── 📝 README.md       ← You are here
 └── ⚖️  LICENSE        ← MIT License
 ```
@@ -300,7 +300,7 @@ Stream availability depends on the source server uptime. If a stream is consiste
 <summary><strong>Is there an API endpoint for this data?</strong></summary>
 <br/>
 Yes — the raw GitHub URL acts as a free, public endpoint:<br/>
-<code>https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/iptv.json</code>
+<code>https://raw.githubusercontent.com/istiakrahman15/iptv-api/main/BD%20Premium.json</code>
 </details>
 
 ---
@@ -317,7 +317,7 @@ Contributions are welcome and appreciated. Please follow these guidelines to kee
 
 **How to contribute:**
 1. Fork this repository
-2. Add your channel entry to `iptv.json` following the exact schema
+2. Add your channel entry to `BD Premium.json` following the exact schema
 3. Test the stream URL before submitting
 4. Open a Pull Request with a clear description
 
